@@ -1,3 +1,4 @@
+![MasterHead](https://media.licdn.com/dms/image/D5616AQGgVHn6fZeFFQ/profile-displaybackgroundimage-shrink_350_1400/0/1673892486543?e=1706140800&v=beta&t=fad3OxrBon2hWR5P4i-4rxSN0_A3-f4icKMYjOHqE_E)
 <h1 align="center">Hi 👋, I'm Amine Boussaid</h1>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif">
 
