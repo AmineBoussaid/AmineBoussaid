@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmineBoussaid](https://github.com/AmineBoussaid)
 
-- 📫 How to reach me **boussaidaminefes@gmail.com**
+- 📫 How to reach me **boussaid.amine01@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
