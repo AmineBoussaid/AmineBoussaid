@@ -19,6 +19,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/amine-boussaid" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Amine Boussaid LinkedIn" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Amine Boussaid LinkedIn" height="40" width="40" style="background-color:white; border-radius:5px;" />
   </a>
 </p>
