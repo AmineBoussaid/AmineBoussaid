@@ -18,6 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/amine.boussaid.71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amine.boussaid.71" height="30" width="40" /></a>
-<a href="https://instagram.com/boussaid__amine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boussaid__amine" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/amine-boussaid" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Amine Boussaid LinkedIn" height="30" width="40" />
+  </a>
 </p>
