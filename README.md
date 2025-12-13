@@ -59,11 +59,6 @@
 
 ---
 
-<h3 align="left">Most Languages Used:</h3>
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amineboussaid&show_icons=true&locale=en&layout=compact" alt="amineboussaid"/>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/amine-boussaid" target="_blank">
