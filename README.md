@@ -6,7 +6,8 @@
 </p>
 
 - 🌱 Passionné par le **développement Full Stack & DevOps**  
-- 📫 Contact : [boussaid.amine01@gmail.com](mailto:boussaid.amine01@gmail.com)  
+- 🌐 Portfolio : <a href="https://boussaid.tech" target="_blank">boussaid.tech</a>  
+- 📫 Contact : <a href="mailto:boussaid.amine01@gmail.com">boussaid.amine01@gmail.com</a>  
 
 ---
 
