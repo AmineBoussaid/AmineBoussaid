@@ -170,14 +170,4 @@
 
 </div>
 
----
-
-<div align="center">
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,45:0F766E,100:22D3EE"
-  alt="Footer"
-/>
-
 </div>
