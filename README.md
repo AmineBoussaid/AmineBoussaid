@@ -40,7 +40,6 @@
 
 ---
 
-<details>
 <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
 <h3>🧑‍💻 Programming and Markup Languages</h3>
@@ -97,12 +96,8 @@
   <a href="https://github.com/features/actions"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white"></a>
 </p>
 
-
-</details>
-
 ---
 
-<details>
 <summary><h2>🔥 Streak Stats</h2></summary>
 
 <div align="center">
@@ -113,9 +108,7 @@
   />
 </div>
 
-</details>
 
-<details>
 <summary><h2>💻 GitHub Profile Stats</h2></summary>
 
 <div align="center">
@@ -136,7 +129,6 @@
 > **Note:** Top Languages indique les langages détectés dans mes dépôts publics.
 > Cette carte ne représente pas l'ensemble de mon expérience ou de mon niveau.
 
-</details>
 
 <details>
 <summary><h2>⚡ Recent GitHub Activity</h2></summary>
