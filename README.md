@@ -13,7 +13,7 @@
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=5000&pause=1000&color=9D25AC&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Full-Stack+Web+%26+App+Developer;DevOps+%26+Cloud+Enthusiast;Experienced+UI%2FUX+Designer;Always+Eager+to+Learn+New+Things"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=5000&pause=1000&color=4CCAFFFF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Full-Stack+Web+%26+App+Developer;DevOps+%26+Cloud+Enthusiast;Experienced+UI%2FUX+Designer;Always+Eager+to+Learn+New+Things"
   alt="Full-Stack Web and App Developer, DevOps and Cloud Enthusiast, UI/UX Designer"
 />
 
